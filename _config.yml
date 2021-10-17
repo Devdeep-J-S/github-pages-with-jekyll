@@ -3,6 +3,7 @@ author: Devdeep
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
   hi , don't worry you will learn everything and will be able to make cool projects.
+  theme : minima
 
 # social links
 twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
